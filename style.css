@@ -28,7 +28,7 @@ span{
     height: 30vh;
 }
 #triangle{
-    margin-top: 30rem;
+    margin-top:20rem;
     background-color: yellow;
     clip-path: polygon(50% 0, 100% 100%, 0 100%);
     transform: rotate(180deg);
